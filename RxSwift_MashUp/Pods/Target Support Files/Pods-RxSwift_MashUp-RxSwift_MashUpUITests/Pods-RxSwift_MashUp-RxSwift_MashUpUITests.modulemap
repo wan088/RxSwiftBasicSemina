@@ -1,0 +1,6 @@
+framework module Pods_RxSwift_MashUp_RxSwift_MashUpUITests {
+  umbrella header "Pods-RxSwift_MashUp-RxSwift_MashUpUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
